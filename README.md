@@ -3,7 +3,6 @@
 Olá! This repository documents my journey through the **42 Paris** curriculum, where I’ve been exploring systems programming, C, and Unix internals.  
 Each project follows strict technical constraints, manual memory management, no external libraries, and in most cases, the infamous `norminette` coding style checker, focus on clean and testable logic.
 
----
 
 ## 📚 Common Core Timeline
 
