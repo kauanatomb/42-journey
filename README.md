@@ -8,11 +8,11 @@ Each project follows strict technical constraints, manual memory management, no 
 
 | Status | Project       | Description | Key Topics | Repo |
 |--------|---------------|-------------|------------|------|
-| ✅     | **Libft**     | Custom implementation of common C functions | Memory, strings, linked lists | [📂 View](https://github.com/kauanatomb/42-libft) |
-| ✅     | **get_next_line** | Read a line from a file descriptor without using stdlib I/O | Buffers, static memory, file descriptors | [📂 View](https://github.com/kauanatomb/42-get_next_line) |
-| ✅     | **ft_printf** | Reimplementation of printf | Variadic functions, format parsing | [📂 View](https://github.com/kauanatomb/42-ft_printf) |
-| ✅     | **pipex**      | Recreate Unix pipes behavior | fork, execve, dup2, error handling | [📂 View](https://github.com/kauanatomb/42-pipex) |
-| ✅     | **push_swap**  | Sorting stack algorithm with operation constraints | Algorithms, stack operations, optimization | [📂 View](https://github.com/kauanatomb/42-push_swap) |
+| ✅     | **Libft**     | Custom implementation of common C functions | Memory, strings, linked lists | [View](https://github.com/kauanatomb/42-libft) |
+| ✅     | **get_next_line** | Read a line from a file descriptor without using stdlib I/O | Buffers, static memory, file descriptors | [View](https://github.com/kauanatomb/42-get_next_line) |
+| ✅     | **ft_printf** | Reimplementation of printf | Variadic functions, format parsing | [View](https://github.com/kauanatomb/42-ft_printf) |
+| ✅     | **pipex**      | Recreate Unix pipes behavior | fork, execve, dup2, error handling | [View](https://github.com/kauanatomb/42-pipex) |
+| ✅     | **push_swap**  | Sorting stack algorithm with operation constraints | Algorithms, stack operations, optimization | [View](https://github.com/kauanatomb/42-push_swap) |
 | ⏳     | **so_long** | *Coming soon* |
 
 ---
