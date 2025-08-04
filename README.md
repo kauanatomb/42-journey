@@ -13,7 +13,7 @@ Each project follows strict technical constraints, manual memory management, no 
 | ✅     | **ft_printf** | Reimplementation of printf | Variadic functions, format parsing | [View](https://github.com/kauanatomb/42-ft_printf) |
 | ✅     | **pipex**      | Recreate Unix pipes behavior | fork, execve, dup2, error handling | [View](https://github.com/kauanatomb/42-pipex) |
 | ✅     | **push_swap**  | Sorting stack algorithm with operation constraints | Algorithms, stack operations, optimization | [View](https://github.com/kauanatomb/42-push_swap) |
-| ⏳     | **so_long** | *Coming soon* |
+| ✅    | **so_long** | Simple 2D game engine that renders a map and handles user movement | Map parsing, dynamic memory, MiniLibX, input events, game loop | [View](https://github.com/kauanatomb/42-so_long)
 
 ---
 
