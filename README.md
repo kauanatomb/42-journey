@@ -15,7 +15,8 @@ Each project follows strict technical constraints, manual memory management, no 
 | ✅     | **push_swap**  | Sorting stack algorithm with operation constraints | Algorithms, stack operations, optimization | [View](https://github.com/kauanatomb/42-push_swap) |
 | ✅    | **so_long** | Simple 2D game engine that renders a map and handles user movement | Map parsing, dynamic memory, MiniLibX, input events, game loop | [View](https://github.com/kauanatomb/42-so_long) |
 | ✅    | **philo** | Simulates the Dining Philosophers concurrency problem in C | Concurrency, synchronization, threading, process management | [View](https://github.com/kauanatomb/42-philo) |
-| ⏳    | **minishell** | coming soon |
+| ✅    | **minishell** | Recreation of a real Unix shell with command parsing, pipes, redirections, and environment variable management. | Process control, signal handling, memory-safe execution, built-in execution and external commands. | [View](https://github.com/kauanatomb/42-minishell) |
+| ⏳    | **NetPractice** | coming soon
 
 ---
 
