@@ -16,9 +16,11 @@ Each project follows strict technical constraints, manual memory management, no 
 | ✅    | **so_long** | Simple 2D game engine that renders a map and handles user movement | Map parsing, dynamic memory, MiniLibX, input events, game loop | [View](https://github.com/kauanatomb/42-so_long) |
 | ✅    | **philo** | Simulates the Dining Philosophers concurrency problem in C | Concurrency, synchronization, threading, process management | [View](https://github.com/kauanatomb/42-philo) |
 | ✅    | **minishell** | Recreation of a real Unix shell with command parsing, pipes, redirections, and environment variable management. | Process control, signal handling, memory-safe execution, built-in execution and external commands. | [View](https://github.com/kauanatomb/42-minishell) |
-| ⏳    | **NetPractice** | coming soon
-
----
+| ✅ | **Netpractice** | Network configuration and troubleshooting through practical TCP/IP exercises | IP addressing, subnetting, routing, network diagnostics | [View](https://github.com/kauanatomb/42-netpractice) |
+| ✅ | **MiniRT** | Build a minimal ray tracer in C capable of rendering basic 3D scenes | Ray tracing fundamentals, vector math, lighting models, MiniLibX, scene parsing | [View](https://github.com/kauanatomb/42-miniRT) |
+| ✅ | **Inception** | Deploy a multi-container web infrastructure using Docker and Docker Compose | Containerization, Dockerfiles, networking, volumes, NGINX, WordPress, MariaDB | [View](https://github.com/kauanatomb/42-inception) |
+| ✅ | **CPP Modules (00–09)** | C++ journey covering object-oriented programming, memory management, inheritance, polymorphism, templates, STL, type casting, exceptions, and algorithmic problem solving | OOP design, canonical form, templates, STL containers, type casting, exception handling, parsing | [View](https://github.com/kauanatomb/42-cpp) |
+| ⏳ | **Webserv** | Build a fully functional HTTP/1.1 web server in C++ from scratch | HTTP protocol, sockets, non-blocking I/O, multiplexing (select/poll), request parsing, CGI, configuration handling | [View](https://github.com/kauanatomb/42-webserv-group) |
 
 ## 🔎 What I’m Most Curious About
 
@@ -41,10 +43,10 @@ I’m especially drawn to topics that require:
 
 ## 📝 I Also Write
 
-Whenever I can, I document my learnings and insights on my blog:  
+I document my learnings, technical deep dives, and reflections on my blog:  
 📖 [Blog](https://dev.to/kauanatomb)
 
----
+I also enjoy writing detailed documentation and technical explanations directly in my repositories README files.
 
 ## 📫 Connect
 
