@@ -1,7 +1,12 @@
 # 42 Journey
 
-Olá! This repository documents my journey through the **42 Paris** curriculum, where I’ve been exploring systems programming, C, and Unix internals.  
-Each project follows strict technical constraints, manual memory management, no external libraries, and in most cases, the infamous `norminette` coding style checker, focus on clean and testable logic.
+Olá! This repository documents my journey through the **42 Paris** curriculum.
+
+I started with a strong focus on systems programming in C, exploring memory management, Unix internals, and low-level concepts under strict constraints (no external libraries, manual resource handling, and the `norminette` coding standard).
+
+Over time, this foundation evolved into building more complex systems, including full-stack applications with backend architecture, real-time features, and blockchain integration.
+
+Each project reflects a step in that progressionm, from low-level fundamentals to production like applications.
 
 
 ## 📚 Common Core Timeline
@@ -20,33 +25,38 @@ Each project follows strict technical constraints, manual memory management, no 
 | ✅ | **MiniRT** | Build a minimal ray tracer in C capable of rendering basic 3D scenes | Ray tracing fundamentals, vector math, lighting models, MiniLibX, scene parsing | [View](https://github.com/kauanatomb/42-miniRT) |
 | ✅ | **Inception** | Deploy a multi-container web infrastructure using Docker and Docker Compose | Containerization, Dockerfiles, networking, volumes, NGINX, WordPress, MariaDB | [View](https://github.com/kauanatomb/42-inception) |
 | ✅ | **CPP Modules (00–09)** | C++ journey covering object-oriented programming, memory management, inheritance, polymorphism, templates, STL, type casting, exceptions, and algorithmic problem solving | OOP design, canonical form, templates, STL containers, type casting, exception handling, parsing | [View](https://github.com/kauanatomb/42-cpp) |
-| ⏳ | **Webserv** | Build a fully functional HTTP/1.1 web server in C++ from scratch | HTTP protocol, sockets, non-blocking I/O, multiplexing (select/poll), request parsing, CGI, configuration handling | [View](https://github.com/kauanatomb/42-webserv-group) |
+| ✅ | **Webserv** | Build a fully functional HTTP/1.1 web server in C++ from scratch | HTTP protocol, sockets, non-blocking I/O, multiplexing (select/poll), request parsing, CGI, configuration handling | [View](https://github.com/kauanatomb/42-webserv-group) |
+| ✅ | **Transcendence - Unblock** | Gamified full-stack web platform for learning blockchain concepts through missions, achievements, and social features, with real-time interactions and on-chain certificate minting | Full-stack architecture (React + Express), real-time systems (Socket.IO), PostgreSQL/Prisma, authentication (OAuth, 2FA), Docker, blockchain integration (Avalanche, ethers.js, smart contracts) | [View](https://github.com/hugoganet/transcendence) |
 
 ## 🔎 What I’m Most Curious About
 
-I’m especially drawn to topics that require:
-- Understanding how things work **under the hood**
-- Writing clean, minimal and efficient C code
-- Managing **memory and resources explicitly**
-- Digging into system calls, processes and Linux internals
+I’m especially interested in understanding systems end-to-end, from low-level fundamentals to real-world applications.
+
+Lately, I’ve been focusing on:
+- Backend architecture and API design
+- Real-time systems and distributed interactions
+- Blockchain integration and smart contracts
+- How abstractions (frameworks, ORMs) actually work under the hood
 
 ---
 
 ## 🧠 Key Learnings So Far
 
-- Manual memory handling and debugging (`valgrind`, `gdb`)
-- Unix process model: `fork`, `execve`, `pipe`, `dup2`
-- Error handling, edge cases, and constraints-based coding
-- Writing modular C projects under time and spec pressure
+- Building full-stack applications (React + Express) with real-time features (Socket.IO)
+- Designing APIs, data models, and working with PostgreSQL via Prisma
+- Authentication flows (OAuth, sessions, 2FA) and security fundamentals
+- Integrating blockchain systems (ethers.js, Avalanche RPC, smart contracts)
+- Containerization and environment setup with Docker
+- Strong foundations in C: memory management, processes, and system calls
 
 ---
 
 ## 📝 I Also Write
 
-I document my learnings, technical deep dives, and reflections on my blog:  
+I document my learning process, technical deep dives, and project breakdowns on my blog:  
 📖 [Blog](https://dev.to/kauanatomb)
 
-I also enjoy writing detailed documentation and technical explanations directly in my repositories README files.
+I also focus on writing clear and structured documentation in my repositories.
 
 ## 📫 Connect
 
